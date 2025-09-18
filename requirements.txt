@@ -1,0 +1,7 @@
+bs4
+selenium
+requests
+sqlalchemy
+python-dotenv
+pymysql
+cryptography
